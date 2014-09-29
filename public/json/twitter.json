@@ -1,0 +1,2307 @@
+{
+    "statuses": [
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:46 +0000 2014",
+            "id": 516416010627596300,
+            "id_str": "516416010627596288",
+            "text": "RT @HutchDano: Throwback Thursday. Selena and I hanging in Vancouver. http://t.co/QxVjfMPCn1",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 324983949,
+                "id_str": "324983949",
+                "name": "THANK U DINAH",
+                "screen_name": "torontosharmony",
+                "location": "cams, grandes, & beth follow",
+                "description": "what is happening https://t.co/wPBSWFHLEb",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/wPBSWFHLEb",
+                                "expanded_url": "https://twitter.com/dinahjane97/status/515918893441748992",
+                                "display_url": "twitter.com/dinahjane97/st…",
+                                "indices": [
+                                    18,
+                                    41
+                                ]
+                            }
+                        ]
+                    }
+                },
+                "protected": false,
+                "followers_count": 13251,
+                "friends_count": 11021,
+                "listed_count": 32,
+                "created_at": "Mon Jun 27 15:02:15 +0000 2011",
+                "favourites_count": 84,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 89940,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EBEBEB",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/757264612/9504d690434dfeaf2597ed6577151e13.gif",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/757264612/9504d690434dfeaf2597ed6577151e13.gif",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/515926659925819392/KbaCKEqz_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/515926659925819392/KbaCKEqz_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/324983949/1411841477",
+                "profile_link_color": "990000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "7AC3EE",
+                "profile_text_color": "3D1957",
+                "profile_use_background_image": false,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Thu Sep 25 17:18:08 +0000 2014",
+                "id": 515188514733187100,
+                "id_str": "515188514733187073",
+                "text": "Throwback Thursday. Selena and I hanging in Vancouver. http://t.co/QxVjfMPCn1",
+                "source": "<a href=\"http://instagram.com\" rel=\"nofollow\">Instagram</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 29945902,
+                    "id_str": "29945902",
+                    "name": "Hutch Dano",
+                    "screen_name": "HutchDano",
+                    "location": "",
+                    "description": "Actor",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 82515,
+                    "friends_count": 3721,
+                    "listed_count": 788,
+                    "created_at": "Thu Apr 09 08:10:11 +0000 2009",
+                    "favourites_count": 316,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 2483,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "1A1B1F",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme9/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/515180505650954240/IEm8Tesq_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/515180505650954240/IEm8Tesq_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/29945902/1409954690",
+                    "profile_link_color": "2FC2EF",
+                    "profile_sidebar_border_color": "181A1E",
+                    "profile_sidebar_fill_color": "252429",
+                    "profile_text_color": "666666",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 239,
+                "favorite_count": 143,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/QxVjfMPCn1",
+                            "expanded_url": "http://instagram.com/p/tYGef8FXXD/",
+                            "display_url": "instagram.com/p/tYGef8FXXD/",
+                            "indices": [
+                                55,
+                                77
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 239,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/QxVjfMPCn1",
+                        "expanded_url": "http://instagram.com/p/tYGef8FXXD/",
+                        "display_url": "instagram.com/p/tYGef8FXXD/",
+                        "indices": [
+                            70,
+                            92
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "HutchDano",
+                        "name": "Hutch Dano",
+                        "id": 29945902,
+                        "id_str": "29945902",
+                        "indices": [
+                            3,
+                            13
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:39 +0000 2014",
+            "id": 516415982680563700,
+            "id_str": "516415982680563713",
+            "text": "RT @jenmorrisonlive: Thank you for watching east coast! I am headed to the screening party in Vancouver! #OnceUponATime #UglyDuckings #Once…",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 190224598,
+                "id_str": "190224598",
+                "name": "samreen",
+                "screen_name": "thankgodselena",
+                "location": "",
+                "description": "i watch a lot of tv shows",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 12367,
+                "friends_count": 91,
+                "listed_count": 243,
+                "created_at": "Mon Sep 13 12:07:35 +0000 2010",
+                "favourites_count": 575,
+                "utc_offset": 14400,
+                "time_zone": "Abu Dhabi",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 79613,
+                "lang": "en-gb",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "FAF7F8",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/459704722706821120/YQUbz--c.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/459704722706821120/YQUbz--c.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/510702639776948224/1pfvq7Vv_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/510702639776948224/1pfvq7Vv_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/190224598/1411892047",
+                "profile_link_color": "370B70",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "121212",
+                "profile_text_color": "E314E0",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Mon Sep 29 01:00:19 +0000 2014",
+                "id": 516391993174671360,
+                "id_str": "516391993174671360",
+                "text": "Thank you for watching east coast! I am headed to the screening party in Vancouver! #OnceUponATime #UglyDuckings #OnceIsFrozen",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 121341102,
+                    "id_str": "121341102",
+                    "name": "Jennifer Morrison",
+                    "screen_name": "jenmorrisonlive",
+                    "location": "LOS ANGELES, VANCOUVER, NYC",
+                    "description": "",
+                    "url": "http://t.co/PwH49cQ0xa",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/PwH49cQ0xa",
+                                    "expanded_url": "http://www.facebook.com/pages/Jennifer-Morrison/384069508688",
+                                    "display_url": "facebook.com/pages/Jennifer…",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 427996,
+                    "friends_count": 206,
+                    "listed_count": 4808,
+                    "created_at": "Tue Mar 09 05:52:56 +0000 2010",
+                    "favourites_count": 1383,
+                    "utc_offset": -14400,
+                    "time_zone": "Eastern Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": true,
+                    "statuses_count": 3760,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "709397",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme6/bg.gif",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/514550969292832768/_i21rCDt_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/514550969292832768/_i21rCDt_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/121341102/1411491199",
+                    "profile_link_color": "FF3300",
+                    "profile_sidebar_border_color": "86A4A6",
+                    "profile_sidebar_fill_color": "A0C5C7",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 696,
+                "favorite_count": 1870,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "OnceUponATime",
+                            "indices": [
+                                84,
+                                98
+                            ]
+                        },
+                        {
+                            "text": "UglyDuckings",
+                            "indices": [
+                                99,
+                                112
+                            ]
+                        },
+                        {
+                            "text": "OnceIsFrozen",
+                            "indices": [
+                                113,
+                                126
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 696,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "OnceUponATime",
+                        "indices": [
+                            105,
+                            119
+                        ]
+                    },
+                    {
+                        "text": "UglyDuckings",
+                        "indices": [
+                            120,
+                            133
+                        ]
+                    },
+                    {
+                        "text": "OnceIsFrozen",
+                        "indices": [
+                            134,
+                            140
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "jenmorrisonlive",
+                        "name": "Jennifer Morrison",
+                        "id": 121341102,
+                        "id_str": "121341102",
+                        "indices": [
+                            3,
+                            19
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:36 +0000 2014",
+            "id": 516415968981946400,
+            "id_str": "516415968981946368",
+            "text": "RT @ASOTGaming: @GamersRetweets NHL 15 breakdown: Vancouver Canucks https://t.co/jfaYQPet3b @RetweetGamers @GamerRetweetNow @Gamer_RTs @RTf…",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2563990987,
+                "id_str": "2563990987",
+                "name": "Raphael",
+                "screen_name": "RTforGamers",
+                "location": "Rain City",
+                "description": "Mention me and get your word out there. Captain of @Vel_esports Black. Graphic Designer for @Vel_esports",
+                "url": "http://t.co/FPRovizt53",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/FPRovizt53",
+                                "expanded_url": "http://rxphaelz.weebly.com",
+                                "display_url": "rxphaelz.weebly.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1137,
+                "friends_count": 65,
+                "listed_count": 1,
+                "created_at": "Thu Jun 12 19:45:57 +0000 2014",
+                "favourites_count": 3683,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 4451,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "1A1B1F",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/508350243419615232/iqhiK12N.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/508350243419615232/iqhiK12N.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/508338389335035904/e6EX8RA3_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/508338389335035904/e6EX8RA3_normal.png",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2563990987/1411862346",
+                "profile_link_color": "000000",
+                "profile_sidebar_border_color": "000000",
+                "profile_sidebar_fill_color": "252429",
+                "profile_text_color": "666666",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Mon Sep 29 02:31:27 +0000 2014",
+                "id": 516414925384986600,
+                "id_str": "516414925384986624",
+                "text": "@GamersRetweets NHL 15 breakdown: Vancouver Canucks https://t.co/jfaYQPet3b @RetweetGamers @GamerRetweetNow @Gamer_RTs @RTforGamers",
+                "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": 2227673276,
+                "in_reply_to_user_id_str": "2227673276",
+                "in_reply_to_screen_name": "GamersRetweets",
+                "user": {
+                    "id": 2769228013,
+                    "id_str": "2769228013",
+                    "name": "As Seen On TV Gaming",
+                    "screen_name": "ASOTGaming",
+                    "location": "",
+                    "description": "",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 41,
+                    "friends_count": 99,
+                    "listed_count": 0,
+                    "created_at": "Tue Aug 26 05:20:19 +0000 2014",
+                    "favourites_count": 0,
+                    "utc_offset": null,
+                    "time_zone": null,
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 28,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "C0DEED",
+                    "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/506500484387987457/WN8X2IsV_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/506500484387987457/WN8X2IsV_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/2769228013/1411866215",
+                    "profile_link_color": "0084B4",
+                    "profile_sidebar_border_color": "C0DEED",
+                    "profile_sidebar_fill_color": "DDEEF6",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": true,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 1,
+                "entities": {
+                    "hashtags": [],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "https://t.co/jfaYQPet3b",
+                            "expanded_url": "https://www.youtube.com/watch?v=o1U0v5uHz7c",
+                            "display_url": "youtube.com/watch?v=o1U0v5…",
+                            "indices": [
+                                52,
+                                75
+                            ]
+                        }
+                    ],
+                    "user_mentions": [
+                        {
+                            "screen_name": "GamersRetweets",
+                            "name": "Retweet HQ",
+                            "id": 2227673276,
+                            "id_str": "2227673276",
+                            "indices": [
+                                0,
+                                15
+                            ]
+                        },
+                        {
+                            "screen_name": "RetweetGamers",
+                            "name": "FREE GFX",
+                            "id": 2152294004,
+                            "id_str": "2152294004",
+                            "indices": [
+                                76,
+                                90
+                            ]
+                        },
+                        {
+                            "screen_name": "GamerRetweetNow",
+                            "name": "Gamer Retweets",
+                            "id": 2359290459,
+                            "id_str": "2359290459",
+                            "indices": [
+                                91,
+                                107
+                            ]
+                        },
+                        {
+                            "screen_name": "Gamer_RTs",
+                            "name": "Gamer RT's ",
+                            "id": 1167287792,
+                            "id_str": "1167287792",
+                            "indices": [
+                                108,
+                                118
+                            ]
+                        },
+                        {
+                            "screen_name": "RTforGamers",
+                            "name": "Raphael",
+                            "id": 2563990987,
+                            "id_str": "2563990987",
+                            "indices": [
+                                119,
+                                131
+                            ]
+                        }
+                    ]
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "https://t.co/jfaYQPet3b",
+                        "expanded_url": "https://www.youtube.com/watch?v=o1U0v5uHz7c",
+                        "display_url": "youtube.com/watch?v=o1U0v5…",
+                        "indices": [
+                            68,
+                            91
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "ASOTGaming",
+                        "name": "As Seen On TV Gaming",
+                        "id": 2769228013,
+                        "id_str": "2769228013",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    },
+                    {
+                        "screen_name": "GamersRetweets",
+                        "name": "Retweet HQ",
+                        "id": 2227673276,
+                        "id_str": "2227673276",
+                        "indices": [
+                            16,
+                            31
+                        ]
+                    },
+                    {
+                        "screen_name": "RetweetGamers",
+                        "name": "FREE GFX",
+                        "id": 2152294004,
+                        "id_str": "2152294004",
+                        "indices": [
+                            92,
+                            106
+                        ]
+                    },
+                    {
+                        "screen_name": "GamerRetweetNow",
+                        "name": "Gamer Retweets",
+                        "id": 2359290459,
+                        "id_str": "2359290459",
+                        "indices": [
+                            107,
+                            123
+                        ]
+                    },
+                    {
+                        "screen_name": "Gamer_RTs",
+                        "name": "Gamer RT's ",
+                        "id": 1167287792,
+                        "id_str": "1167287792",
+                        "indices": [
+                            124,
+                            134
+                        ]
+                    },
+                    {
+                        "screen_name": "RTforGamers",
+                        "name": "Raphael",
+                        "id": 2563990987,
+                        "id_str": "2563990987",
+                        "indices": [
+                            135,
+                            140
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:33 +0000 2014",
+            "id": 516415956965269500,
+            "id_str": "516415956965269504",
+            "text": "Almost 7000 heavy-equipment operators will be needed in BC - The Globe and Mail http://t.co/vg4Kvf7cUM Vancouver truck washing",
+            "source": "<a href=\"http://vancouvertruckwashing.acepressurewashing.net/\" rel=\"nofollow\">Vancouver truck Washing</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 426716738,
+                "id_str": "426716738",
+                "name": "Ace Pressure Washing",
+                "screen_name": "AcePressureWash",
+                "location": "Surrey, BC",
+                "description": "Vancouver truck washing. Truck washing and heavy equipment cleaning by Ace pressure washing throughout the Lower Mainland. Free quotes.",
+                "url": "http://t.co/sqs1uoLEPE",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/sqs1uoLEPE",
+                                "expanded_url": "http://vancouvertruckwashing.acepressurewashing.net/",
+                                "display_url": "…ertruckwashing.acepressurewashing.net",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 348,
+                "friends_count": 747,
+                "listed_count": 5,
+                "created_at": "Fri Dec 02 16:07:43 +0000 2011",
+                "favourites_count": 0,
+                "utc_offset": -28800,
+                "time_zone": "Alaska",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 6151,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "022330",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme15/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1669831542/HPIM1070_normal.JPG",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1669831542/HPIM1070_normal.JPG",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "A8C7F7",
+                "profile_sidebar_fill_color": "C0DFEC",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/vg4Kvf7cUM",
+                        "expanded_url": "http://vancouvertruckwashing.acepressurewashing.net/?p=8577",
+                        "display_url": "…ertruckwashing.acepressurewashing.net/?p=8577",
+                        "indices": [
+                            80,
+                            102
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:30 +0000 2014",
+            "id": 516415942835044350,
+            "id_str": "516415942835044352",
+            "text": "RT @victoriachemko: Photo: Prawns, mussels, corn, and everything delicious #Gyozabar #givememore #vancouver #foodporn (at Gyoza... http://t…",
+            "source": "<a href=\"http://twitter.com/download/iphone\" rel=\"nofollow\">Twitter for iPhone</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2222326868,
+                "id_str": "2222326868",
+                "name": "Gyoza Bar",
+                "screen_name": "GyozaBarRamen",
+                "location": "Vancouver",
+                "description": "Now open at 622 West Pender Street, Downtown Vancouver",
+                "url": "http://t.co/Swat2lJgrG",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/Swat2lJgrG",
+                                "expanded_url": "http://www.gyozabar.ca",
+                                "display_url": "gyozabar.ca",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 356,
+                "friends_count": 303,
+                "listed_count": 5,
+                "created_at": "Sat Nov 30 02:29:03 +0000 2013",
+                "favourites_count": 3,
+                "utc_offset": -25200,
+                "time_zone": "Arizona",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 493,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/452214993769873408/gFL-V1H5_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/452214993769873408/gFL-V1H5_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2222326868/1410103055",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Sun Sep 28 03:54:23 +0000 2014",
+                "id": 516073409084919800,
+                "id_str": "516073409084919809",
+                "text": "Photo: Prawns, mussels, corn, and everything delicious #Gyozabar #givememore #vancouver #foodporn (at Gyoza... http://t.co/GxXkbQKrjN",
+                "source": "<a href=\"http://www.tumblr.com/\" rel=\"nofollow\">Tumblr</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 62997599,
+                    "id_str": "62997599",
+                    "name": "Victoria Chemko",
+                    "screen_name": "victoriachemko",
+                    "location": "Now: Vancouver",
+                    "description": "Principal of @UmamiMarketing. Location Independent Digital Marketer & Foodie who loves wine, volleyball, scuba diving, spontaneous adventures & life!",
+                    "url": "http://t.co/zk3rwE1Xzu",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "http://t.co/zk3rwE1Xzu",
+                                    "expanded_url": "http://victoriasfoodsecrets.com",
+                                    "display_url": "victoriasfoodsecrets.com",
+                                    "indices": [
+                                        0,
+                                        22
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 3498,
+                    "friends_count": 2980,
+                    "listed_count": 260,
+                    "created_at": "Wed Aug 05 01:53:51 +0000 2009",
+                    "favourites_count": 0,
+                    "utc_offset": -25200,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 6378,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "B2DFDA",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/165706121/VictoriasFoodSecrets.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/165706121/VictoriasFoodSecrets.jpg",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/443314785824686082/POzmxkRx_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/443314785824686082/POzmxkRx_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/62997599/1392584583",
+                    "profile_link_color": "93A644",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "FFFFFF",
+                    "profile_text_color": "333333",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 1,
+                "favorite_count": 0,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Gyozabar",
+                            "indices": [
+                                55,
+                                64
+                            ]
+                        },
+                        {
+                            "text": "givememore",
+                            "indices": [
+                                65,
+                                76
+                            ]
+                        },
+                        {
+                            "text": "vancouver",
+                            "indices": [
+                                77,
+                                87
+                            ]
+                        },
+                        {
+                            "text": "foodporn",
+                            "indices": [
+                                88,
+                                97
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/GxXkbQKrjN",
+                            "expanded_url": "http://tmblr.co/ZUmf9w1RrK4s-",
+                            "display_url": "tmblr.co/ZUmf9w1RrK4s-",
+                            "indices": [
+                                111,
+                                133
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 1,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Gyozabar",
+                        "indices": [
+                            75,
+                            84
+                        ]
+                    },
+                    {
+                        "text": "givememore",
+                        "indices": [
+                            85,
+                            96
+                        ]
+                    },
+                    {
+                        "text": "vancouver",
+                        "indices": [
+                            97,
+                            107
+                        ]
+                    },
+                    {
+                        "text": "foodporn",
+                        "indices": [
+                            108,
+                            117
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/GxXkbQKrjN",
+                        "expanded_url": "http://tmblr.co/ZUmf9w1RrK4s-",
+                        "display_url": "tmblr.co/ZUmf9w1RrK4s-",
+                        "indices": [
+                            139,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "victoriachemko",
+                        "name": "Victoria Chemko",
+                        "id": 62997599,
+                        "id_str": "62997599",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:29 +0000 2014",
+            "id": 516415940372987900,
+            "id_str": "516415940372987905",
+            "text": "Study suggests Vancouver mayoral candidates should target 'super-engagers' http://t.co/OGMpvAkuxv #news http://t.co/gYLwbid0sY",
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 81904191,
+                "id_str": "81904191",
+                "name": "Canadian Businesses",
+                "screen_name": "Canada_Business",
+                "location": "Canada",
+                "description": "Canadian Business Directory, News, Information and Support",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 16371,
+                "friends_count": 17325,
+                "listed_count": 368,
+                "created_at": "Mon Oct 12 19:04:53 +0000 2009",
+                "favourites_count": 12,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 226455,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "A6A6A6",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/45617468/kate.jpg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/45617468/kate.jpg",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/466961525/CANBIZ1_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/466961525/CANBIZ1_normal.jpg",
+                "profile_link_color": "A33B3B",
+                "profile_sidebar_border_color": "F2F2F2",
+                "profile_sidebar_fill_color": "B8B8B8",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "news",
+                        "indices": [
+                            98,
+                            103
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/OGMpvAkuxv",
+                        "expanded_url": "http://ift.tt/1BthODx",
+                        "display_url": "ift.tt/1BthODx",
+                        "indices": [
+                            75,
+                            97
+                        ]
+                    },
+                    {
+                        "url": "http://t.co/gYLwbid0sY",
+                        "expanded_url": "http://ift.tt/1cV8ouC",
+                        "display_url": "ift.tt/1cV8ouC",
+                        "indices": [
+                            104,
+                            126
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:28 +0000 2014",
+            "id": 516415936963051500,
+            "id_str": "516415936963051520",
+            "text": "RT @_Confessor: $300,000 to give two European politicians a ride home, but you can forget about a Coast Guard station in Vancouver. #cdnpol…",
+            "source": "<a href=\"http://blackberry.com/twitter\" rel=\"nofollow\">Twitter for BlackBerry®</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 880715798,
+                "id_str": "880715798",
+                "name": "William B Devitt III",
+                "screen_name": "WilliamBDevittI",
+                "location": "Nova Scotia, Canada",
+                "description": "A social activist for Banking, Corporate, and Government Transparency & Accountability to Society. A concerned citizen of Canada and the world.  Enjoys Politics",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 1024,
+                "friends_count": 2001,
+                "listed_count": 27,
+                "created_at": "Sun Oct 14 18:33:53 +0000 2012",
+                "favourites_count": 8227,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 21851,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EDECE9",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/378800000026699882/020363e6016dc031752786413ae0ad6b.jpeg",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/378800000026699882/020363e6016dc031752786413ae0ad6b.jpeg",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/378800000207916376/d109aab1f3abec863e42f23d29d7a1ad_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/378800000207916376/d109aab1f3abec863e42f23d29d7a1ad_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/880715798/1372772380",
+                "profile_link_color": "088253",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "E3E2DE",
+                "profile_text_color": "634047",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Mon Sep 29 02:28:00 +0000 2014",
+                "id": 516414058808234000,
+                "id_str": "516414058808233985",
+                "text": "$300,000 to give two European politicians a ride home, but you can forget about a Coast Guard station in Vancouver. #cdnpoli #FuckHarper",
+                "source": "<a href=\"http://twitter.com/#!/download/ipad\" rel=\"nofollow\">Twitter for iPad</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 183114838,
+                    "id_str": "183114838",
+                    "name": "FuzzyWuzzy",
+                    "screen_name": "_Confessor",
+                    "location": "Cracktown, Toronto",
+                    "description": "Equality, Socialism, Skepticism, Science, Environment, Words, Trains, Cats. I am a queer fellow.",
+                    "url": null,
+                    "entities": {
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 2524,
+                    "friends_count": 995,
+                    "listed_count": 153,
+                    "created_at": "Thu Aug 26 05:05:54 +0000 2010",
+                    "favourites_count": 430,
+                    "utc_offset": -18000,
+                    "time_zone": "Quito",
+                    "geo_enabled": true,
+                    "verified": false,
+                    "statuses_count": 130230,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/233378996/freetwitter-2.br.jpg",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/233378996/freetwitter-2.br.jpg",
+                    "profile_background_tile": false,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/509371074849832960/49toirHh_normal.jpeg",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/509371074849832960/49toirHh_normal.jpeg",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/183114838/1381107132",
+                    "profile_link_color": "0000FF",
+                    "profile_sidebar_border_color": "324E34",
+                    "profile_sidebar_fill_color": "8DFF00",
+                    "profile_text_color": "000000",
+                    "profile_use_background_image": true,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": false,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 4,
+                "favorite_count": 2,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "cdnpoli",
+                            "indices": [
+                                116,
+                                124
+                            ]
+                        },
+                        {
+                            "text": "FuckHarper",
+                            "indices": [
+                                125,
+                                136
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "lang": "en"
+            },
+            "retweet_count": 4,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "cdnpoli",
+                        "indices": [
+                            132,
+                            140
+                        ]
+                    },
+                    {
+                        "text": "FuckHarper",
+                        "indices": [
+                            139,
+                            140
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": [
+                    {
+                        "screen_name": "_Confessor",
+                        "name": "FuzzyWuzzy",
+                        "id": 183114838,
+                        "id_str": "183114838",
+                        "indices": [
+                            3,
+                            14
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "et",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:27 +0000 2014",
+            "id": 516415931795644400,
+            "id_str": "516415931795644416",
+            "text": "Al-Nakeel Halal Restaurant on #Yelp: Alnakeel... http://t.co/egzyhbp6FT",
+            "source": "<a href=\"http://www.yelp.com/\" rel=\"nofollow\">Yelp</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 715820023,
+                "id_str": "715820023",
+                "name": "Amir Abubaker",
+                "screen_name": "alnakeelrest",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 23,
+                "friends_count": 35,
+                "listed_count": 0,
+                "created_at": "Wed Jul 25 09:55:56 +0000 2012",
+                "favourites_count": 3,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 102,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/2436982221/image_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/2436982221/image_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Yelp",
+                        "indices": [
+                            30,
+                            35
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/egzyhbp6FT",
+                        "expanded_url": "http://www.yelp.ca/biz_photos/al-nakeel-halal-restaurant-vancouver?pt=biz_photo&ref=twitter&select=3Y-vCwGHneJ3wIYwi2pB7Q",
+                        "display_url": "yelp.ca/biz_photos/al-…",
+                        "indices": [
+                            49,
+                            71
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "et"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:24 +0000 2014",
+            "id": 516415921586700300,
+            "id_str": "516415921586700288",
+            "text": "RSL feeling hard done by after getting called for two penalties in loss at Vancouver http://t.co/Z8SPJaDw8W",
+            "source": "<a href=\"http://ifttt.com\" rel=\"nofollow\">IFTTT</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2355879524,
+                "id_str": "2355879524",
+                "name": "EliteFC",
+                "screen_name": "UVEliteFC",
+                "location": "Utah",
+                "description": "Our mission is to enhance, assist, and cultivate the sport of soccer in Utah County.",
+                "url": "http://t.co/SqifWgWLhV",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/SqifWgWLhV",
+                                "expanded_url": "http://www.elitefc.org",
+                                "display_url": "elitefc.org",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 105,
+                "friends_count": 191,
+                "listed_count": 0,
+                "created_at": "Sat Feb 22 06:08:57 +0000 2014",
+                "favourites_count": 3,
+                "utc_offset": -18000,
+                "time_zone": "Central Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 18409,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/441979365325156352/9K-XYjf__normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/441979365325156352/9K-XYjf__normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2355879524/1393050524",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/Z8SPJaDw8W",
+                        "expanded_url": "http://ift.tt/1nvlofI",
+                        "display_url": "ift.tt/1nvlofI",
+                        "indices": [
+                            85,
+                            107
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:14 +0000 2014",
+            "id": 516415877265117200,
+            "id_str": "516415877265117184",
+            "text": "Can I just move to Vancouver already? 😭😭",
+            "source": "<a href=\"http://twitter.com/download/android\" rel=\"nofollow\">Twitter for Android</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 205528197,
+                "id_str": "205528197",
+                "name": "M A L E F I C E N T.",
+                "screen_name": "JAYKOBVALIYEV",
+                "location": "Tumblr Link…!",
+                "description": "“Every man has his secret sorrows which the world knows not; and often times we call a man cold when he is only sad.”",
+                "url": "http://t.co/UgnQtDmFlL",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/UgnQtDmFlL",
+                                "expanded_url": "http://jaykobvaliyev.tumblr.com",
+                                "display_url": "jaykobvaliyev.tumblr.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 78,
+                "friends_count": 64,
+                "listed_count": 0,
+                "created_at": "Thu Oct 21 02:19:43 +0000 2010",
+                "favourites_count": 1080,
+                "utc_offset": -18000,
+                "time_zone": "Quito",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 3223,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "131516",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme14/bg.gif",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/516070387688296448/1Qpg58tG_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/516070387688296448/1Qpg58tG_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/205528197/1402346314",
+                "profile_link_color": "312394",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "EFEFEF",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:10 +0000 2014",
+            "id": 516415861654319100,
+            "id_str": "516415861654319106",
+            "text": "RT @supervancouver: Uncover clues and help solve the Science World After Dark Murder Mystery in #Vancouver #Halloween http://t.co/573sLmrHPC",
+            "source": "<a href=\"https://roundteam.co\" rel=\"nofollow\">RoundTeam</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 539628941,
+                "id_str": "539628941",
+                "name": "hoodPALS Network",
+                "screen_name": "hoodPALS",
+                "location": "Vancouver, BC, Canada",
+                "description": "hoodPALS is repaving the Information Superhighway by reinventing Social Networking! Join the conversation. Where do you call home?\r\nDaniel Abrams - Founder, hP",
+                "url": "https://t.co/IMJc4DNIos",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "https://t.co/IMJc4DNIos",
+                                "expanded_url": "https://hoodpals.com",
+                                "display_url": "hoodpals.com",
+                                "indices": [
+                                    0,
+                                    23
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 967,
+                "friends_count": 1200,
+                "listed_count": 29,
+                "created_at": "Thu Mar 29 03:37:50 +0000 2012",
+                "favourites_count": 2,
+                "utc_offset": -25200,
+                "time_zone": "Pacific Time (US & Canada)",
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 127707,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "EAEAEA",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/344918034408057605/43147dc4e1956280bd70fd5dbb0b309a.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/344918034408057605/43147dc4e1956280bd70fd5dbb0b309a.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/3671164307/3dcaf4f86ad85c1274e2db66fc21ee68_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/3671164307/3dcaf4f86ad85c1274e2db66fc21ee68_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/539628941/1368686387",
+                "profile_link_color": "800000",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweeted_status": {
+                "metadata": {
+                    "iso_language_code": "en",
+                    "result_type": "recent"
+                },
+                "created_at": "Mon Sep 29 02:30:29 +0000 2014",
+                "id": 516414680748003300,
+                "id_str": "516414680748003328",
+                "text": "Uncover clues and help solve the Science World After Dark Murder Mystery in #Vancouver #Halloween http://t.co/573sLmrHPC",
+                "source": "<a href=\"http://www.hootsuite.com\" rel=\"nofollow\">Hootsuite</a>",
+                "truncated": false,
+                "in_reply_to_status_id": null,
+                "in_reply_to_status_id_str": null,
+                "in_reply_to_user_id": null,
+                "in_reply_to_user_id_str": null,
+                "in_reply_to_screen_name": null,
+                "user": {
+                    "id": 91852905,
+                    "id_str": "91852905",
+                    "name": "Super Vancouver",
+                    "screen_name": "supervancouver",
+                    "location": "Vancouver",
+                    "description": "We are Vancouver's ultimate city guide covering events, dining, entertainment and wherever the action is!",
+                    "url": "https://t.co/KfoHROM3jw",
+                    "entities": {
+                        "url": {
+                            "urls": [
+                                {
+                                    "url": "https://t.co/KfoHROM3jw",
+                                    "expanded_url": "https://www.facebook.com/supervancouver",
+                                    "display_url": "facebook.com/supervancouver",
+                                    "indices": [
+                                        0,
+                                        23
+                                    ]
+                                }
+                            ]
+                        },
+                        "description": {
+                            "urls": []
+                        }
+                    },
+                    "protected": false,
+                    "followers_count": 46152,
+                    "friends_count": 16842,
+                    "listed_count": 890,
+                    "created_at": "Sun Nov 22 19:37:54 +0000 2009",
+                    "favourites_count": 18,
+                    "utc_offset": -25200,
+                    "time_zone": "Pacific Time (US & Canada)",
+                    "geo_enabled": false,
+                    "verified": false,
+                    "statuses_count": 15539,
+                    "lang": "en",
+                    "contributors_enabled": false,
+                    "is_translator": false,
+                    "is_translation_enabled": false,
+                    "profile_background_color": "FFFFFF",
+                    "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/445005694261923840/1RroXzfY.png",
+                    "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/445005694261923840/1RroXzfY.png",
+                    "profile_background_tile": true,
+                    "profile_image_url": "http://pbs.twimg.com/profile_images/462865955840724992/4VfE1J5F_normal.png",
+                    "profile_image_url_https": "https://pbs.twimg.com/profile_images/462865955840724992/4VfE1J5F_normal.png",
+                    "profile_banner_url": "https://pbs.twimg.com/profile_banners/91852905/1399190786",
+                    "profile_link_color": "FF2247",
+                    "profile_sidebar_border_color": "FFFFFF",
+                    "profile_sidebar_fill_color": "DAECF4",
+                    "profile_text_color": "663B12",
+                    "profile_use_background_image": false,
+                    "default_profile": false,
+                    "default_profile_image": false,
+                    "following": true,
+                    "follow_request_sent": false,
+                    "notifications": false
+                },
+                "geo": null,
+                "coordinates": null,
+                "place": null,
+                "contributors": null,
+                "retweet_count": 2,
+                "favorite_count": 0,
+                "entities": {
+                    "hashtags": [
+                        {
+                            "text": "Vancouver",
+                            "indices": [
+                                76,
+                                86
+                            ]
+                        },
+                        {
+                            "text": "Halloween",
+                            "indices": [
+                                87,
+                                97
+                            ]
+                        }
+                    ],
+                    "symbols": [],
+                    "urls": [
+                        {
+                            "url": "http://t.co/573sLmrHPC",
+                            "expanded_url": "http://fb.me/2wuHS4y0k",
+                            "display_url": "fb.me/2wuHS4y0k",
+                            "indices": [
+                                98,
+                                120
+                            ]
+                        }
+                    ],
+                    "user_mentions": []
+                },
+                "favorited": false,
+                "retweeted": false,
+                "possibly_sensitive": false,
+                "lang": "en"
+            },
+            "retweet_count": 2,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [
+                    {
+                        "text": "Vancouver",
+                        "indices": [
+                            96,
+                            106
+                        ]
+                    },
+                    {
+                        "text": "Halloween",
+                        "indices": [
+                            107,
+                            117
+                        ]
+                    }
+                ],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/573sLmrHPC",
+                        "expanded_url": "http://fb.me/2wuHS4y0k",
+                        "display_url": "fb.me/2wuHS4y0k",
+                        "indices": [
+                            118,
+                            140
+                        ]
+                    }
+                ],
+                "user_mentions": [
+                    {
+                        "screen_name": "supervancouver",
+                        "name": "Super Vancouver",
+                        "id": 91852905,
+                        "id_str": "91852905",
+                        "indices": [
+                            3,
+                            18
+                        ]
+                    }
+                ]
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:35:01 +0000 2014",
+            "id": 516415824517533700,
+            "id_str": "516415824517533696",
+            "text": "Mr. Bojangles (LIVE) ... Nitty Gritty Dirt Band HQ at Vancouver Island Musicfest 2005 http://t.co/N2hrbopOyd",
+            "source": "<a href=\"http://www.apple.com\" rel=\"nofollow\">iOS</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2337426882,
+                "id_str": "2337426882",
+                "name": "Aunt Sue",
+                "screen_name": "susandukeindy",
+                "location": "",
+                "description": "My little brother, Steve, played guitar by ear and instilled a love of music in his nine children. I want to be a better Aunt and friend, in memory of him.... i",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 545,
+                "friends_count": 1427,
+                "listed_count": 5,
+                "created_at": "Mon Feb 10 23:57:18 +0000 2014",
+                "favourites_count": 1408,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": true,
+                "verified": false,
+                "statuses_count": 1720,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/497979193896878081/rTZs1Kdi_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/497979193896878081/rTZs1Kdi_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2337426882/1398299553",
+                "profile_link_color": "B30092",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/N2hrbopOyd",
+                        "expanded_url": "http://youtu.be/wKKYKGxHdyU",
+                        "display_url": "youtu.be/wKKYKGxHdyU",
+                        "indices": [
+                            86,
+                            108
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:34:56 +0000 2014",
+            "id": 516415802065821700,
+            "id_str": "516415802065821697",
+            "text": "Thanks to everyone who came out and celebrated#RecordStoreDay&amp; 4/20 with us last night at Lanalous!#Vancouver#VanMusic#FourTwenty",
+            "source": "<a href=\"http://twitter.com\" rel=\"nofollow\">Twitter Web Client</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2436091528,
+                "id_str": "2436091528",
+                "name": "Sherri",
+                "screen_name": "wcbillabongggC",
+                "location": "Long Beach, CA",
+                "description": "Good decisions come from experience..... and experience comes from bad decisions.",
+                "url": "http://t.co/2pGUaVjQlU",
+                "entities": {
+                    "url": {
+                        "urls": [
+                            {
+                                "url": "http://t.co/2pGUaVjQlU",
+                                "expanded_url": "http://sugardunkington.com",
+                                "display_url": "sugardunkington.com",
+                                "indices": [
+                                    0,
+                                    22
+                                ]
+                            }
+                        ]
+                    },
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 5,
+                "friends_count": 206,
+                "listed_count": 0,
+                "created_at": "Tue Mar 25 17:10:44 +0000 2014",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 586,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/510146545644101632/L8hW9TW7_normal.jpeg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/510146545644101632/L8hW9TW7_normal.jpeg",
+                "profile_banner_url": "https://pbs.twimg.com/profile_banners/2436091528/1410463396",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:34:54 +0000 2014",
+            "id": 516415794419601400,
+            "id_str": "516415794419601408",
+            "text": "Live streaming Arizona v Vancouver hockey tv watch 9/29/2014 http://t.co/mU2VYZgh2o",
+            "source": "<a href=\"http://watch-live-stream.com/\" rel=\"nofollow\">watch-live-stream.com</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 471174265,
+                "id_str": "471174265",
+                "name": "Jaime Mendonca",
+                "screen_name": "zakseqinjinya",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 100,
+                "friends_count": 138,
+                "listed_count": 0,
+                "created_at": "Sun Jan 22 15:44:06 +0000 2012",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 43428,
+                "lang": "en",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_image_url_https": "https://abs.twimg.com/images/themes/theme1/bg.png",
+                "profile_background_tile": false,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/1782361671/030_normal.jpg",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/1782361671/030_normal.jpg",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "C0DEED",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": true,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/mU2VYZgh2o",
+                        "expanded_url": "http://miniplants.com.ua/live-streaming-arizona-v-vancouver-hockey-tv-watch-9292014/",
+                        "display_url": "miniplants.com.ua/live-streaming…",
+                        "indices": [
+                            61,
+                            83
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        },
+        {
+            "metadata": {
+                "iso_language_code": "en",
+                "result_type": "recent"
+            },
+            "created_at": "Mon Sep 29 02:34:54 +0000 2014",
+            "id": 516415794386067460,
+            "id_str": "516415794386067456",
+            "text": "Postgame Quote Sheet: RSL 1-2 Vancouver Whitecaps FC http://t.co/iA4QfilQLk",
+            "source": "<a href=\"http://FansRSLake.com\" rel=\"nofollow\">Fans_RSLake_APPS</a>",
+            "truncated": false,
+            "in_reply_to_status_id": null,
+            "in_reply_to_status_id_str": null,
+            "in_reply_to_user_id": null,
+            "in_reply_to_user_id_str": null,
+            "in_reply_to_screen_name": null,
+            "user": {
+                "id": 2614223028,
+                "id_str": "2614223028",
+                "name": "Real   Salt   Lake",
+                "screen_name": "Fans_RSLake",
+                "location": "",
+                "description": "",
+                "url": null,
+                "entities": {
+                    "description": {
+                        "urls": []
+                    }
+                },
+                "protected": false,
+                "followers_count": 910,
+                "friends_count": 1151,
+                "listed_count": 7,
+                "created_at": "Wed Jul 09 21:22:01 +0000 2014",
+                "favourites_count": 0,
+                "utc_offset": null,
+                "time_zone": null,
+                "geo_enabled": false,
+                "verified": false,
+                "statuses_count": 7691,
+                "lang": "es",
+                "contributors_enabled": false,
+                "is_translator": false,
+                "is_translation_enabled": false,
+                "profile_background_color": "C0DEED",
+                "profile_background_image_url": "http://pbs.twimg.com/profile_background_images/486984914894467072/mVhuTqNG.png",
+                "profile_background_image_url_https": "https://pbs.twimg.com/profile_background_images/486984914894467072/mVhuTqNG.png",
+                "profile_background_tile": true,
+                "profile_image_url": "http://pbs.twimg.com/profile_images/486984839984197632/PjMq8CsB_normal.png",
+                "profile_image_url_https": "https://pbs.twimg.com/profile_images/486984839984197632/PjMq8CsB_normal.png",
+                "profile_link_color": "0084B4",
+                "profile_sidebar_border_color": "FFFFFF",
+                "profile_sidebar_fill_color": "DDEEF6",
+                "profile_text_color": "333333",
+                "profile_use_background_image": true,
+                "default_profile": false,
+                "default_profile_image": false,
+                "following": false,
+                "follow_request_sent": false,
+                "notifications": false
+            },
+            "geo": null,
+            "coordinates": null,
+            "place": null,
+            "contributors": null,
+            "retweet_count": 0,
+            "favorite_count": 0,
+            "entities": {
+                "hashtags": [],
+                "symbols": [],
+                "urls": [
+                    {
+                        "url": "http://t.co/iA4QfilQLk",
+                        "expanded_url": "http://ay.gy/sQ8JA?8UVNY",
+                        "display_url": "ay.gy/sQ8JA?8UVNY",
+                        "indices": [
+                            53,
+                            75
+                        ]
+                    }
+                ],
+                "user_mentions": []
+            },
+            "favorited": false,
+            "retweeted": false,
+            "possibly_sensitive": false,
+            "lang": "en"
+        }
+    ],
+    "search_metadata": {
+        "completed_in": 0.023,
+        "max_id": 516416010627596300,
+        "max_id_str": "516416010627596288",
+        "next_results": "?max_id=516415794386067455&q=vancouver&include_entities=1",
+        "query": "vancouver",
+        "refresh_url": "?since_id=516416010627596288&q=vancouver&include_entities=1",
+        "count": 15,
+        "since_id": 0,
+        "since_id_str": "0"
+    }
+}
